@@ -1,8 +1,6 @@
 ---
 layout: page
-category:"随笔"
 title: 一切都会过去!
-tags: ["随笔"]
 tagline: 锲而不舍，金石可镂
 ---
 {% include JB/setup %}
