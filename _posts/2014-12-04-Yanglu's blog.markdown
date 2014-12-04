@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Yanglu's blog
-tagline: learn happy
+
 ---
 {% include JB/setup %}
 
 #---市场游戏的开发
+
 
 真搞，为了记录这个所谓的“牛市”我还专门弄了个博客
 
