@@ -1,7 +1,8 @@
 ---
 layout: page
+category: "随笔"
 title: Yanglu's blog
-
+tags: ["随笔"]
 ---
 {% include JB/setup %}
 
