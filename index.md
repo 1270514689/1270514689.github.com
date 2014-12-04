@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一切都会过去!
-tagline: learn happy
+tagline: 锲而不舍，金石可镂
 ---
 {% include JB/setup %}
 
