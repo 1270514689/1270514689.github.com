@@ -1,14 +1,13 @@
 ---
 layout: page
 title: 一切都会过去!
-tagline: 锲而不舍，金石可镂
+tagline: everything will be ok
 ---
 {% include JB/setup %}
 
 
 ## 时间这个问题，最终还是个问题 
 
-制定好自己的目标，然后去努力前进:
     
     你也会累
    
@@ -17,7 +16,7 @@ tagline: 锲而不舍，金石可镂
     勇敢的向前走
       
 	  
-灵魂在你人生的路上等你
+
     
 ## no pain no gain
 
@@ -25,7 +24,7 @@ tagline: 锲而不舍，金石可镂
 我们在任何时候都有选择的自由...
 
 
-文章列表：
+##文章列表：
 
 <ul class="posts">
   {% for post in site.posts %}
