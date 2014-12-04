@@ -1,12 +1,11 @@
 ---
 layout: page
 title: 一切都会过去!
-tagline: everything will be ok
 ---
 {% include JB/setup %}
 
 
-## 时间这个问题，最终还是个问题 
+## 坚定不移地去做正确的事情 
 
     
     你也会累
@@ -18,13 +17,11 @@ tagline: everything will be ok
 	  
 
     
-## no pain no gain
-
-不管前方有什么什么样的困难，关键是多思考，行动起来，你总会找到最好的方法...
-我们在任何时候都有选择的自由...
+## 不管前方有什么什么样的困难，关键是多思考，行动起来，你总会找到最好的方法...
+   我们在任何时候都有选择的自由...
 
 
-##文章列表：
+##Update：
 
 <ul class="posts">
   {% for post in site.posts %}
