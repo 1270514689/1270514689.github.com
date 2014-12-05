@@ -15,12 +15,11 @@ title: 一切都会过去!
     勇敢的向前走
       
 	  
-
-    
 ## 多思考，多行动起来，你会找到最好的方法...
 
 
-#Update：
+##Update：
+-------------
 
 <ul class="posts">
 {% for post in site.posts %}
