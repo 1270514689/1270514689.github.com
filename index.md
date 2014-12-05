@@ -24,21 +24,20 @@ title: 一切都会过去!
 ##Update：
 
 <ul class="posts">
-  {% for post in site.posts %}
+{% for post in site.posts %}
 <h2>
   <a href="{{ post.url }}">
     {{ post.title }}
   </a> 
-  	 <div class="post-date">
-	   <span class="glyphicon glyphicon-time"></span>
-	    {{ post.date | date_to_string }}
-     </div>
+  <div class="post-date">
+	<span class="time_show"></span>
+	{{ post.date | date_to_string }}
+  </div>
 </h2>
 <hr>
 {{ post.excerpt }}
 <hr>
-    
-  {% endfor %}
+{% endfor %}
 </ul>
 
 
