@@ -21,7 +21,7 @@ title: 一切都会过去!
    我们在任何时候都有选择的自由...
 
 
-##Update：
+#Update：
 
 <ul class="posts">
 {% for post in site.posts %}
