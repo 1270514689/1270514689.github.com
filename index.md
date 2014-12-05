@@ -28,12 +28,15 @@ title: 一切都会过去!
 <h2>
   <a href="{{ post.url }}">
     {{ post.title }}
+	 <div class="post-date">
+	   <span class="glyphicon glyphicon-time"></span>
+	    {{ post.date | date_to_string }}
+     </div>
   </a> 
  <li><span>{{ post.date | date_to_string }}</span> &raquo;</li>
 </h2>
 <hr>
 {{ post.excerpt }}
-	<p> <a href="{{ post.url }}"><span >阅读全文 &raquo; </span></a></p>
 <hr>
     
   {% endfor %}
