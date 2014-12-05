@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 一切都会过去!
+title: 一切都会过去...
 ---
 {% include JB/setup %}
 
