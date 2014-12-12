@@ -1,8 +1,8 @@
 ﻿---
 layout: page
-category: "随笔"
-title: Yanglu's blog
-tags: ["随笔"]
+category: "life"
+title: life is wonderful
+tags: ["life"]
 ---
 
 ####开始认真写点博客，记录点滴人生感悟
